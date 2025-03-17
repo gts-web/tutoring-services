@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Gobi Tutoring Services
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
