@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /about/
+permalink: /another-page/
 ---
 
 ## Welcome to About page
