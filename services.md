@@ -3,7 +3,7 @@ layout: default
 permalink: /services/
 ---
 
-## Welcome to About page
+## Welcome to Services page
 
 _yay_
 
