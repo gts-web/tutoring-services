@@ -3,7 +3,7 @@ layout: default
 permalink: /packages/
 ---
 
-## Welcome to About page
+## Welcome to Packages page
 
 _yay_
 
