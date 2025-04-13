@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /aboutme/
+permalink: /services/
 ---
 
 ## Welcome to About page
