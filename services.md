@@ -7,6 +7,8 @@ permalink: /services/
 
 I offer personalized, one-on-one and small group tutoring for Grades 6 to 12, based on the Ontario curriculum. My goal is to help students build confidence, improve their grades, and develop a real understanding of STEM subjects.
 
+<br>
+
 ## 📚 Subjects I Tutor
 
 ### Mathematics
@@ -37,6 +39,8 @@ I offer personalized, one-on-one and small group tutoring for Grades 6 to 12, ba
 
 *  STEM Projects & Competitions
 
+<br>
+
 ## 🎓 Services I Offer
 
 ### ✔️ One-on-One Tutoring
@@ -50,5 +54,10 @@ Get help with tough assignments, review for quizzes, and prep for tests and fina
 
 ### ✔️ Project Guidance
 Support for school projects, science fairs, and STEM challenges — from brainstorming to final presentation.
+
+<br>
+
+## 📝 How I Teach
+I focus on making complex ideas simple and relatable, using real-world examples and interactive problem-solving. I tailor each session to your pace, goals, and learning style — and I believe every student can succeed in STEM with the right support.
 
 [back](./)
