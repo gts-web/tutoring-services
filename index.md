@@ -2,122 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 👋 Welcome to Gobi Tutoring Services
+Supporting Students in Grades 6–12 with Expert STEM Tutoring Aligned to the Ontario Curriculum
 
-[Link to another page](./about/).
+<br>
 
-There should be whitespace between paragraphs. GOBI!
+## 🌟 Unlock Your Full Potential in Math, Science, and Technology
+Whether you're looking to boost your grades, prepare for exams, or build a stronger understanding of STEM subjects — you’re in the right place. I offer personalized, one-on-one and small group tutoring designed to meet your unique learning needs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+As an experienced professional with a background in engineering, IT, and education, I’m here to help you feel confident, capable, and ready to tackle even the toughest topics.
 
-# Homepage H
+<br>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## ✅ What Makes Us Different
+*  Specialized STEM focus for Grades 6–12
+*  Ontario curriculum-based approach
+*  Flexible online and in-person options
+*  Clear, supportive, and practical explanations
+*  Homework support, test prep, and concept reinforcement
 
-## Header 2
+<br>
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 📆 Book a Session in Minutes
+Ready to take the next step?
+Check my availability and book your session instantly through my online scheduler.
 
-### Header 3
+<br>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 👉 Book a Session Now
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+<br>
 
-#### Header 4
+## 🎯 Let’s Work Together
+No matter where you are in your learning journey, I’m here to help you succeed. Whether you’re aiming to improve your marks, build confidence, or get ahead — let’s make it happen together.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+<br>
 
-##### Header 5
+### Need more info?
+Feel free to contact me — I’m happy to answer your questions and help you get started.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
