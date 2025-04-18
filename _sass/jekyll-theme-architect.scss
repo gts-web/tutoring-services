@@ -88,6 +88,20 @@ aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
 
+aside#topbar {
+  width: 200px;
+  min-height: 204px;
+  padding-left: 20px;
+  font-size: 10px;
+  line-height: 1.0;
+  background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
+}
+
+aside#topbar p.repo-owner,
+aside#topbar p.repo-owner a {
+  font-weight: bold;
+}
+
 #downloads {
   margin-bottom: 40px;
 }
