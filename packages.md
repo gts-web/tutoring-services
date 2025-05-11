@@ -42,5 +42,3 @@ Payment is due at the time of booking or before the session begins.​
 
 ### 🔄 Cancellation & Rescheduling Policy
 I understand that schedules can change. Please provide at least 24 hours' notice for cancellations or rescheduling to avoid a session charge.
-
-[back](./)
