@@ -14,4 +14,3 @@ My tutoring style is friendly, supportive, and interactive. I believe learning s
 When I’m not tutoring or working in tech, you’ll probably find me exploring new tech gadgets, working on fun side projects, or hanging out with my Morkie dog!
 
 Looking forward to learning together!
-[back](./)
