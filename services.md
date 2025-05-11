@@ -59,5 +59,3 @@ Support for school projects, science fairs, and STEM challenges — from brainst
 
 ## 📝 How I Teach
 I focus on making complex ideas simple and relatable, using real-world examples and interactive problem-solving. I tailor each session to your pace, goals, and learning style — and I believe every student can succeed in STEM with the right support.
-
-[back](./)
