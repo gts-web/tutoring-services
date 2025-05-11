@@ -28,5 +28,3 @@ Yes — you can book as many sessions as you'd like in advance. I also offer dis
 
 ### 📌 Do you provide learning materials or worksheets?
 Yes — depending on the subject and topic, I can provide practice problems, worksheets, and resources to support your learning.
-
-[back](./)
