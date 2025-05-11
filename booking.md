@@ -25,5 +25,3 @@ Plans can change — no problem!
 Please give at least 24 hours’ notice if you need to cancel or reschedule a session.
 
 Cancellations with less than 24 hours’ notice may be subject to the full session fee.
-
-[back](./)
